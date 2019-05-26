@@ -1,0 +1,28 @@
+h2 {
+  color: #006fcf;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #95a5a6;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  fill: #95a5a6;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: #006fcf;
+  stroke-width: 1.5px;
+}
+
+background{
+  color: #002663;
+}

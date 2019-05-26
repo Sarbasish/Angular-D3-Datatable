@@ -1,0 +1,39 @@
+
+  .primary{
+    background-color: #002663;    
+  }
+  .auto-container{
+      width: 400px;
+      min-width: 300px;
+      margin:100px auto 8px;
+      position: relative;
+      font-size: 14px;
+      font-weight: normal;
+      line-height: 1.4;
+      background-color: #ffffff;
+      border-radius: 3px;
+      border:1px solid #cccccc;
+      height: auto;
+      padding: 50px 30px;
+
+  }
+  .mat-form-field{
+      width: 100%;
+  }
+  table{width: 100%;}
+  .auto-container div{
+        width:100%;
+         text-align: center;
+  }
+  .fullwidth{
+      width: 100%;
+      text-align:center;
+  }
+  .title{
+      padding-top:30px;
+      border-top:1px solid #ccc;
+      margin:15px 0;
+  }
+  .mat-card-actions{
+      text-align: center;
+  }
